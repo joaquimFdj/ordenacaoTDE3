@@ -1,1 +1,5 @@
-# ordenacaoTDE3
+# ordenacaoTDE3  
+PUC-PR - Bacharelado em Ciência da Computação - Resolução de Problemas Estruturados em Computação Professor Andrey Cabral Meira  
+TDE 3 - Ordenação - Individual  
+ALUNO - JOAQUIM DOS ANJOS FARACO  
+
