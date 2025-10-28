@@ -3,4 +3,4 @@
 - TDE 3 - Ordenação - Individual  
 - ALUNO - JOAQUIM DOS ANJOS FARACO  
 - Main.java roda os testes nos codigos de cada uma das classes.
-- Graficoes de performance e prints das saídas no terminal estao na pasta resultadosTestes
+- Graficos de performance e prints das saídas no terminal estao na pasta resultadosTestes.
